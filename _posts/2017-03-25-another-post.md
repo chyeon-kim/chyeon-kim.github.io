@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  "This is Just Another Post"
-date:   2017-03-25 01:30:13 +0800
-categories: default
-tags: test
+title:  "Web automation setting_selenium"
+date:   2020-09-19 10:30:13 +0800
+categories: automation
+tags: [automation, selenium, web]
 ---
+
 I have some text.
 
 I want some _italics_.
